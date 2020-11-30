@@ -8,10 +8,5 @@
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		}
-	],
-	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor",
-		"Android"
 	]
 }
